@@ -1,19 +1,19 @@
 # LENDING CLUB CASE STUDY
 
 ## Table of Contents
-* [Problem statement](#Problem statement)
-* [Methodology](#Methodology)
-* [Data cleaning](#Data cleaning)
-* [Univariate analysis for different variables](#Univariate analysis for different variables)
-* [Bivariate analysis for different variables](#Bivariate analysis for different variables)
-* [Summary](#Summary)
+*  Problem statement
+*  Methodology
+*  Data cleaning
+*  Univariate analysis with different variables
+*  Bivariate analysis with different variables
+*  Summary
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Lending Club seeks to comprehend the driving forces underlying loan default, i.e.,       the driver variables that serve as reliable predictors of default.Hence related dataset 
-are analysed includes data on previous loan applications using EDA to comprehend how 
-consumer factors and loan attributes affect the likelihood of default.
+- Lending Club seeks to comprehend the driving forces underlying loan default, i.e.,the driver variables that serve as 
+  reliable predictors of default.Hence related dataset are analysed includes data on previous loan applications using EDA 
+  to comprehend how consumer factors and loan attributes affect the likelihood of default.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
